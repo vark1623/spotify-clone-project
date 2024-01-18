@@ -35,6 +35,7 @@ export default async function Home() {
               xl:grid-cols-3
               2xl:grid-cols-4
               gap-3
+              items-center
               mt-4
             "
           >
